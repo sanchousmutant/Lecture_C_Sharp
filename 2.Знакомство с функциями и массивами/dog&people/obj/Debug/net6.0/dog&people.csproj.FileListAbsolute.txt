@@ -1,0 +1,15 @@
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\bin\Debug\net6.0\dog&people.exe
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\bin\Debug\net6.0\dog&people.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\bin\Debug\net6.0\dog&people.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\bin\Debug\net6.0\dog&people.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\bin\Debug\net6.0\dog&people.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\refint\dog&people.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\dog&people.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\dog&people\obj\Debug\net6.0\ref\dog&people.dll

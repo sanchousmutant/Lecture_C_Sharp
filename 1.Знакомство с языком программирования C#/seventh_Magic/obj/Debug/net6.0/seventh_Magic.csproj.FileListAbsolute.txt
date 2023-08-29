@@ -1,0 +1,30 @@
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\bin\Debug\net6.0\seventh_Magic.exe
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\bin\Debug\net6.0\seventh_Magic.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\bin\Debug\net6.0\seventh_Magic.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\bin\Debug\net6.0\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\bin\Debug\net6.0\seventh_Magic.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\refint\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\seventh_Magic.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1\seventh_Magic\obj\Debug\net6.0\ref\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\bin\Debug\net6.0\seventh_Magic.exe
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\bin\Debug\net6.0\seventh_Magic.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\bin\Debug\net6.0\seventh_Magic.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\bin\Debug\net6.0\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\bin\Debug\net6.0\seventh_Magic.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\refint\seventh_Magic.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\seventh_Magic.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\seventh_Magic\obj\Debug\net6.0\ref\seventh_Magic.dll

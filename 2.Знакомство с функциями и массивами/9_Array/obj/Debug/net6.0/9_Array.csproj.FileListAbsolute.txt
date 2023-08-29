@@ -1,0 +1,15 @@
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\bin\Debug\net6.0\9_Array.exe
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\bin\Debug\net6.0\9_Array.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\bin\Debug\net6.0\9_Array.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\bin\Debug\net6.0\9_Array.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\bin\Debug\net6.0\9_Array.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\refint\9_Array.dll
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.pdb
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\9_Array.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\9_Array\obj\Debug\net6.0\ref\9_Array.dll

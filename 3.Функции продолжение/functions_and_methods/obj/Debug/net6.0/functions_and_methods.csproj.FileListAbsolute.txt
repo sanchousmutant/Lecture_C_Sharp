@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\bin\Debug\net6.0\functions_and_methods.exe
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\bin\Debug\net6.0\functions_and_methods.deps.json
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\bin\Debug\net6.0\functions_and_methods.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\bin\Debug\net6.0\functions_and_methods.dll
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\bin\Debug\net6.0\functions_and_methods.pdb
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.dll
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\refint\functions_and_methods.dll
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.pdb
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\functions_and_methods.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\1.Знакомство с языком программирования C#\functions_and_methods\obj\Debug\net6.0\ref\functions_and_methods.dll
