@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\bin\Debug\net6.0\thumbs_up.exe
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\bin\Debug\net6.0\thumbs_up.deps.json
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\bin\Debug\net6.0\thumbs_up.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\bin\Debug\net6.0\thumbs_up.dll
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\bin\Debug\net6.0\thumbs_up.pdb
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.dll
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\refint\thumbs_up.dll
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.pdb
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\thumbs_up.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Лекции\3.Знакомство с языками программирования\4.Рекурсия и двумерные массивы\thumbs_up\obj\Debug\net6.0\ref\thumbs_up.dll
